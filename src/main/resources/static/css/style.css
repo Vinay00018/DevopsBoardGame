@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue; /* You can pick any color you like */
+}
+.error {
+    color: red;
+}
+
+textarea {
+    width: 50rem;
+    height: 10rem;
+}
